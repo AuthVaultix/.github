@@ -46,13 +46,13 @@
 ## 🌐 **Quick Links**
 
 <p align="center">
-  <a href="https://AuthVaultix.shop/">
+  <a href="https://AuthVaultix.com">
     <img src="https://img.shields.io/badge/🌍%20Website-0aefff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://t.me/AuthVaultixshop">
     <img src="https://img.shields.io/badge/💬%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://AuthVaultix.shop/">
+  <a href="https://AuthVaultix.com/">
     <img src="https://img.shields.io/badge/🎟️%20Support-ff0066?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@AuthVaultix">
