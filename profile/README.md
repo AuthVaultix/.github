@@ -115,7 +115,7 @@ Integrate AuthVaultix seamlessly into your applications with our official, commu
 Manage and verify your licensing directly inside your community platforms with our official automation bots:
 
 - **Discord Bot** — [<samp>AuthVaultix-Discord-Bot</samp>](https://github.com/AuthVaultix/AuthVaultix-Discord-Bot) — Auto-verification, roles sync, and license generation.
-- **Telegram Bot** — [<samp>AuthVaultix-Telegram-Bot</samp>](https://github.com/AuthVaultix/AuthVaultix-Telegram-Bot) — Instant license lookup, validation, and support features. comming sooon
+- **Telegram Bot** — [<samp>AuthVaultix-Telegram-Bot</samp>](https://github.com/AuthVaultix/AuthVaultix-Telegram-Bot) — Instant license lookup, validation, and support features. comming soon
 
 ---
 
